@@ -2,7 +2,7 @@
 # Week 3 
 ## TASK 1
 
-PORTFOLIO link:
+PORTFOLIO LINK:
 https://portfolio.sotundesamuel.repl.co
 
 ## TASK 2
