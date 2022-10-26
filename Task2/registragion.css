@@ -1,0 +1,134 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #00264d;
+}
+
+h4 {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  margin-top: 30px;
+  text-transform: capitalize;
+}
+
+p {
+  text-align: center;
+  color: white;
+  margin-top: 5px;
+}
+
+p a {
+  color: #1a1aff;
+}
+
+.container {
+  background-color: #999999;
+  width: 400px;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 5px;
+  padding: 10px 50px;
+}
+
+div {
+  margin-bottom: 20px;
+}
+
+.in {
+  width: 300px;
+  height: 30px;
+  border: 1px solid #00264d;
+  outline-color: #00264d;
+  border-radius: 5px;
+  padding: 10px;
+  color: #000033;
+}
+
+label {
+  color: #000033;
+  text-transform: capitalize;
+}
+
+.text {
+  text-transform: lowercase;
+}
+
+.gender {
+  border-radius: 5px;
+  width: 90px;
+  height: 30px;
+  padding: 5px;
+}
+
+.box {
+  width: 15px;
+  height: 15px;
+}
+
+.color {
+  width: 300px;
+  padding: none;
+}
+
+/* LOGIN */
+.container2 {
+  background-color: #999999;
+  width: 400px;
+  margin: auto;
+  margin-top: 90px;
+  border-radius: 5px;
+  padding: 10px 50px;
+}
+
+.b {
+  text-align: center;
+}
+
+.btn {
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  background-color: #000066;
+  color: white;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #000033;
+}
+
+.icon {
+  font-size: 90px;
+  text-align: center;
+  color: #00264d;
+}
+
+/* SUCCESS */
+.suc {
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  border: 5px solid white;
+  border-radius: 50%;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.icn {
+  font-size: 100px;
+  color: white;
+  margin-top: 40px;
+}
+
+.suc p {
+  text-transform: capitalize;
+  font-size: 60px;
+  font-style: italic;
+  color: white;
+}
